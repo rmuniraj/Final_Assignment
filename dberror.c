@@ -7,7 +7,7 @@
 char *RC_message;
 
 /
-/* print a message to standard out describing the error */
+/* print a message to standard out describing the error ..*/
 void 
 printError (RC error)
 {
