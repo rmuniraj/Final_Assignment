@@ -6,7 +6,9 @@
 
 char *RC_message;
 
-/* print a message to standard out describing the error */
+/*dberror.c is updated.*/
+
+/* print a message to standard out describing the error ... */
 void 
 printError (RC error)
 {
